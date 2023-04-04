@@ -11,4 +11,4 @@ Improving vector space representations using semantic resources
 2. Materials.
    1. Algorithm: Faruqui (2015). https://github.com/mfaruqui/retrofitting
    2. Semantic resources: WordNet, FrameNet. https://drive.google.com/file/d/1DmPAj07k_dKqaKpwEnqaT1gL1RKrXOuB/view?usp=share_link
-   3. 
+   3. Word2vec: Gensim https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html#sphx-glr-auto-examples-tutorials-run-word2vec-py
