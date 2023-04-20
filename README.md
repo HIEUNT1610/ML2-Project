@@ -1,6 +1,8 @@
 NLP Project 
 Improving vector space representations using semantic resources
 ================
+This is the end of semester project for the class Machine Learning for NLP at the University Paris Cite'. The task is to study the retrofitting algorithm by Faruqui (2015) to improve off-the-shelf word embeddings using semantic resources (WordNet).
+
 1. Tasks.
    1. Read Faruqui (2015), his algorithm, and understand the task.
    2. Find better $\alpha$ and $\beta$ values for the model.
