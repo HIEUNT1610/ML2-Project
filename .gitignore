@@ -24,3 +24,6 @@ Material/resources_project_retrofitting_word_vectors/resources_project_retrofitt
 Work/ppdb-2.0-xl-lexical.gz
 Work/wn3.1.dict.tar.gz
 Material/resources_project_retrofitting_word_vectors/resources_project_retrofitting_word_vectors/word_embeddings/wn3.1.dict.tar.gz
+Work/vectors_datatxt_250_sg_w10_i5_c500_gensim_clean.gz
+Work/stanford_sentiment_analysis.tar.gz
+Work/ws353.txt
